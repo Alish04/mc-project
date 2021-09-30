@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family:  'Montserrat';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 100;
+
+  src: local('Montserrat'), 
+    url(./fonts/Montserrat-Thin.ttf) format('truetype'),
+    url(./fonts/Montserrat-ThinItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 200;
+
+  src: local('Montserrat'), 
+    url(./fonts/Montserrat-ExtraLight.ttf) format('truetype'),
+    url(./fonts/Montserrat-ExtraLightItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 300;
+
+  src: local('Montserrat'), 
+  url(./fonts/Montserrat-Light.ttf) format('truetype'),
+  url(./fonts/Montserrat-LightItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 400;
+
+  src: local('Montserrat'), 
+  url(./fonts/Montserrat-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 500;
+
+  src: local('Montserrat'), 
+  url(./fonts/Montserrat-Medium.ttf) format('truetype'),
+  url(./fonts/Montserrat-MediumItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 600;
+
+  src: local('Montserrat'), 
+  url(./fonts/Montserrat-SemiBold.ttf) format('truetype'),
+  url(./fonts/Montserrat-SemiBoldItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 700;
+
+  src: local('Montserrat'), 
+  url(./fonts/Montserrat-Bold.ttf) format('truetype'),
+  url(./fonts/Montserrat-BoldItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 800;
+
+  src: local('Montserrat'), 
+  url(./fonts/Montserrat-ExtraBold.ttf) format('truetype'),
+  url(./fonts/Montserrat-ExtraBoldItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 900;
+
+  src: local('Montserrat'), 
+  url(./fonts/Montserrat-Black.ttf) format('truetype'),
+  url(./fonts/Montserrat-BlackItalic.ttf) format('truetype');
+}

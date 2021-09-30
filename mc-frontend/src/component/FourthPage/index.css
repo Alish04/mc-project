@@ -1,0 +1,158 @@
+.fourthPage{
+    width: 100%;
+    height: 833px;
+    align-items: flex-start;
+    justify-content: center;
+    background-image: url(../../img/background.jpg);
+    background-size: cover;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+.pageTitle{
+    display: flex;
+    justify-content: center;
+    height: 55px;
+    margin-top: 114px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: center;
+    color: #D90000;
+}
+
+.about{
+    display: flex;
+    margin-top: 110px;
+    justify-content: center;
+}
+
+.currentPrograms{
+    justify-content: center;
+    width: 342px;
+    height: 401px;
+    margin-top: 22px;
+}
+
+.programsIcon{
+    width: 170px;
+    height: 170px;
+    margin-left: 86px;
+}
+
+.programsTheme{
+    width: 327px;
+    height: 29px;
+    margin-top: 31px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #A33F3F;
+}
+
+.programsText{
+    width: 342px;
+    height: 144px;
+    margin-top: 27px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+.teachers{
+    justify-content: center;
+    width: 378px;
+    height: 383px;
+    margin-left: 67px;
+    margin-top: 1px;
+}
+
+.teacherIcon{
+    width: 200px;
+    height: 200px;
+    margin-left: 105px;
+    margin-top: 13px;
+}
+
+.teachersTheme{
+    width: 313px;
+    height: 29px;
+    margin-top: 18px;
+    margin-left: 22px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #A33F3F;
+}
+
+.teachersText{
+    width: 378px;
+    height: 96px;
+    margin-top: 25px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+.projectForPortfolio{
+    justify-content: center;
+    width: 334px;
+    height: 383px;
+    margin-left: 67px;
+}
+
+.porfolioIcon{
+    width: 200px;
+    height: 200px;
+    margin-left: 67px;
+}
+
+.portfolioTheme{
+    width: 267px;
+    height: 29px;
+    margin-top: 18px;
+    margin-left: 33px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #A33F3F;
+}
+
+.portfolioText{
+    width: 333px;
+    height: 96px;
+    margin-top: 25px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}

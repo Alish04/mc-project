@@ -1,0 +1,121 @@
+.page{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 800px;
+    margin-top: 108px;
+}
+
+.pageTheme{
+    background-color: lightgrey;
+    display: flex;
+    width: 700px;
+    height: 240px;
+    align-items: center;
+    justify-content: center;
+    
+    text-align: start;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 59px;
+}
+
+.left-block__item{
+    display: flex;
+    margin-left: 79px;
+    justify-content: center;
+}
+
+.left-block__btn-block{
+    display: flex;
+    align-items: flex-end;
+}
+
+.arrowIcon{
+    width: 186px;
+}
+
+.applicationForm{
+       width: 390px;
+       height: 76px;
+       background: #D90000;
+       border-radius: 10px;
+       font-family: Montserrat;
+       font-style: normal;
+       font-weight: 600;
+       font-size: 20px;
+       line-height: 25px;
+       color: #FFFFFF;
+}
+
+.themeText{
+    width: 600px;
+    height: 177px;
+    margin-left: 30px;
+}
+
+.backgroundTriangles{
+    display: flex;
+    align-items: flex-end;
+}
+
+.trianglesIcon{
+    position: relative;
+    z-index: -5;
+    margin-left: 136px;
+}
+
+.polygon{
+    position: absolute;
+    margin-left: 100px;
+    z-index: -3;
+}
+
+.personIcon{
+    position: absolute;
+    margin-left: 100px;
+    z-index: -1;
+}
+
+@media( max-width : 1200px ){
+    .page{
+        flex-direction: column-reverse;
+        display: flex;
+        margin-top: 52px;
+    }
+
+    .backgroundTriangles img{
+        width: 356px;
+        margin-left: 0;
+    }
+
+    .pageTheme{
+        width: 336px;
+        height: 87px;
+        justify-content: center;
+
+        background-color: white;
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 29px
+    }
+
+    .themeText{
+        width: 336px;
+        height: 87px;
+        padding: 0;
+    }
+
+    .arrowIcon{
+        display: none;
+    }
+
+    .applicationForm{
+        width: 292px;
+        height: 61px;
+    }
+}

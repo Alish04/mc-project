@@ -1,0 +1,81 @@
+.thirdPage{
+    width: 100%;
+    height: 828px;
+    align-items: flex-start;
+    justify-content: center;
+    background-image: url(../../img/background.jpg);
+    background-size: cover;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+.pageName{
+    display: flex;
+    height: 55px;
+    margin-top: 83px;
+    justify-content: center;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: center;
+    color: #D90000;
+}
+
+.blocks{
+    display: flex;
+    justify-content: center;
+    margin-top: 66px;
+}
+
+.blockForSchool{
+    justify-content: center;
+    height: 560px;
+    width: 440px;
+
+    background: rgba(163, 63, 63, 0.85);
+    border-radius: 10px;
+}
+
+.blockForUniversity{
+    justify-content: center;
+    height: 560px;
+    width: 440px;
+    margin-left: 75px;
+
+    background: rgba(163, 63, 63, 0.85);
+    border-radius: 10px;
+}
+
+.backpackIcon{
+    height: 230px;
+    width: 208px;
+    margin-left: 116px;
+    margin-top: 70px;
+    margin-bottom: 48px;
+}
+
+.hatIcon{
+    height: 230px;
+    width: 208px;
+    margin-left: 84px;
+    margin-top: 91px;
+    margin-bottom: 33px;
+}
+
+.blockTheme{
+    width: 383px;
+    height: 193px;
+    margin-left: 29px;
+    margin-bottom: 18px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    text-align: center;
+    color: #FFFFFF;
+}

@@ -1,0 +1,90 @@
+.footer{
+    width: 100%;
+    height: 580px;
+}
+
+.footer-links{
+    background-color: gray;
+    display: flex;
+    width: 100%;
+    height: 488px;
+    bottom: 0px;
+}
+
+.contacts{
+    width: 435px;
+    height: 322px;
+    margin-top: 50px;
+    margin-left: 100px;
+    background-color: white;
+}
+
+.map{
+    display: flex;
+    width: 225px;
+    height: 75px;
+    margin-left: 320px;
+    margin-top: 180px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 78px;
+}
+
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    width: 122px;
+    height: 29px;
+    margin-top: 35px;
+    margin-left: 43px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.socials{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    width: 170px;
+    padding-bottom: 35px;
+    padding-right: 204px;
+    padding-top: 200px;
+    height: 32px;
+    padding-left: 40px
+}
+
+.facebook{
+    height: 25px;
+}
+
+.twitter{
+    height: 25px;
+}
+
+.youtube{
+    height: 25px;
+}
+
+.instagram{
+    height: 25px;
+}
+
+.mnc-footer-icon{
+    width: 100%;
+    height: 85px;
+    background-color: aliceblue;
+    padding-top: 31px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 27px;
+}

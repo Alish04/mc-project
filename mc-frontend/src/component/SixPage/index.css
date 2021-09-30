@@ -1,0 +1,128 @@
+.sixPage{
+    width: 100%;
+    height: 1448px;
+    align-items: flex-start;
+    justify-content: center;
+    background-image: url(../../img/background.jpg);
+    background-size: cover;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    height: 55px;  
+    margin-top: 70px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: center;
+    color: #D90000;
+}
+
+.coaches{
+    display: flex;
+    justify-content: center;
+    margin-top: 83px;
+}
+
+.blockAdina{
+    justify-content: center;
+    width: 588px;
+    height: 1134px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 44px -12px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.adinasPhoto{
+    width: 467px;
+    height: 438px;
+    border-radius: 20px;
+    margin-top: 46px;
+    margin-left: 60px;
+}
+
+.adinasFullName{
+    width: 399px;
+    height: 55px;
+    margin-top: 34px;
+    margin-left: 94px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: center;
+    color: #000000;
+}
+
+.adinasAchiviements{
+    width: 467px;
+    height: 429px;
+    margin-top: 65px;
+    margin-left: 60px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    text-align: start;
+    line-height: 150%;
+    color: #000000;
+}
+
+.blockKirill{
+    justify-content: center;
+    width: 608px;
+    height: 1134px;
+    margin-left: 20px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 44px -12px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.kirillsPhoto{
+    width: 467px;
+    height: 438px;
+    border-radius: 20px;
+    margin-top: 46px;
+    margin-left: 70px;
+}
+
+.kirillsFullName{
+    width: 492px;
+    height: 55px;
+    margin-top: 34px;
+    margin-left: 58px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 55px;
+    text-align: center;
+    color: #000000;
+}
+
+.kirillsAchiviements{
+    width: 479px;
+    height: 352px;
+    margin-top: 65px;
+    margin-left: 70px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 170%;
+    text-align: start;
+    color: #000000;
+}
